@@ -51,7 +51,7 @@ This project leverages Google AI's powerful PALM model to create a question-answ
 
 **Customizing Data:**
 
-- Replace the provided `faq.csv` file with your own CSV file containing question-answer pairs.
+- Replace the provided `FAQ.csv` file with your own CSV file containing question-answer pairs.
 - Alternatively, edit the `CSV_FILE_PATH` variable in `streamlit_ui.py` to point to your desired CSV file.
 
 **Troubleshooting:**
